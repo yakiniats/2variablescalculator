@@ -1,2 +1,2 @@
-# calculator
+2 variables calculator
 JavaScript Calculator
